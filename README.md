@@ -1,1 +1,1 @@
-# SMP
+student mangament portal
